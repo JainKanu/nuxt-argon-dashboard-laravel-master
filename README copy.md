@@ -1,3 +1,22 @@
+# [Nuxt Argon Dashboard Laravel](https://nuxt-argon-dashboard-laravel.creative-tim.com/?ref=nadl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Nuxt%20Argon%20Dashboard%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//nuxt-argon-dashboard-laravel.creative-tim.com/%20%23%nuxt%20%23%argon%20%23design%20%23dashboard%20%23laravel%20via%20%40CreativeTim)
+
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nuxt-argon-dashboard-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nuxt-argon-dashboard-laravel/nuxt-argon-dashboard-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/issues?q=is%3Aissue+is%3Aclosed)
+
+_Frontend version_: Argon Dashboard v1.2.0. More info at https://www.creative-tim.com/product/argon-dashboard
+
+![Product Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/intro.gif)
+
+What if your frontend came not only with reusable components, but also with a reusable backend? API-driven development is more than just a buzzword and we partnered with [UPDIVISION](https://updivision.com) to prove it. Build awesome-looking apps with a flexible architecture across a variety of devices and operating systems with Nuxt Argon Dashboard Laravel.
+
+# Download
+
+For the free version of the project you can either
+
+- download the .zip file from the Creative Tim site and extract it or
+- make a clone from the Github repository
+
+You will get two project folders: one for the Laravel API project and one for the Nuxt frontend.
+
 # Laravel API Setup
 
 ## Introduction
